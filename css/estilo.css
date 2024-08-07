@@ -1,0 +1,28 @@
+.color{
+    color: white;
+    font-size: 50px;
+}
+#hero{
+    background-image: url(../img/fondo/bg-masthead.jpg);
+    height: 500px;
+}
+.align{
+    text-align: center;
+}
+.about_us{
+    background-color: lightgray;
+}
+#contacto{
+    background-image: url(../img/fondo/bg-masthead.jpg);
+    height: 500px;
+
+}
+@media (width  <= 756px) {
+    /* … */
+    .name{
+        color: black;
+    }
+  }
+  .pad{
+    padding: 25px 0px;
+  }
